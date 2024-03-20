@@ -8,7 +8,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "gradio_sbmp_promptable_image"
-version = "0.0.2"
+version = "0.0.3"
 description = "A webcam-compatible Gradio input image component enabling prompting with the most recently drawn bounding box and multiple points."
 readme = "README.md"
 license = "MIT"
